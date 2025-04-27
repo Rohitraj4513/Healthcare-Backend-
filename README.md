@@ -50,11 +50,9 @@ POST : http://127.0.0.1:8000/api/auth/register/
 
 {
 
-
   "username": "testuser",
   "email": "test@example.com",
   "password": "testpassword123"
-
   
 }
 
